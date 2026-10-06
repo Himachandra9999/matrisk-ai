@@ -1,0 +1,6 @@
+Target,Model,MAE,RMSE,Test_R2,CV_Mean_R2,CV_Std_R2
+bulk_modulus_GPa,Random Forest,48.247,61.9985,0.4367,0.4761,0.032
+shear_modulus_GPa,Random Forest,33.9038,45.2108,0.27,0.306,0.0198
+poisson_ratio,Random Forest,0.0485,0.0603,-0.0417,-0.0472,0.0131
+band_gap_eV,Random Forest,0.9376,1.5174,0.6373,0.6521,0.0348
+melting_point_K,Random Forest,424.8554,535.0894,0.3209,0.3155,0.0126
